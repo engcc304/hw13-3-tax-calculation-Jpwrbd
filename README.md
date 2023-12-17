@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12930493&assignment_repo_type=AssignmentRepo)
 # ENGCC304
 
 ### คำอธิบายรายวิชา.
@@ -43,3 +44,8 @@
 ### อื่นๆ
 * [ข้อมูลอาจารย์](https://lms.rmutl.ac.th/teachers/detail/24002453439513437/5fd51c39cb8f05637cb8e96df6ec9392edb3ec16ea62666620cda4fd8f8b3e72)
 * ติดติดอาจารย์ได้ตลอด ผ่าน Microsoft Team ได้ที่ mr.kittinan@rmutl.ac.th
+#   M y - H o m e - W o r k  
+ #   M y - H o m e - W o r k  
+ #   M y - H o m e - W o r k  
+ #   M y - H o m e - W o r k  
+ 
